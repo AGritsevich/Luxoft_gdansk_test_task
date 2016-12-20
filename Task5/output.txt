@@ -1,0 +1,15 @@
+A
+AB
+ABC
+ABCD
+ABD
+AC
+ACD
+AD
+B
+BC
+BCD
+BD
+C
+CD
+D
